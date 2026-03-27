@@ -1,0 +1,5 @@
+{
+  "name": "EchoTranscribe",
+  "description": "A high-precision speech-to-text application powered by Gemini.",
+  "requestFramePermissions": ["microphone"]
+}
